@@ -1,6 +1,6 @@
 # ParteiDuell Klieh
 
-[![asciicast](https://asciinema.org/a/8ggBSeCM5YYmbxJNgvWKMS2V6.svg)](https://asciinema.org/a/8ggBSeCM5YYmbxJNgvWKMS2V6)
+![Screencast](./screencast.svg)]
 
 ## Installation
 
