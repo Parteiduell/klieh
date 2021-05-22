@@ -1,3 +1,8 @@
 .venv
 .envrc
 .vscode
+.direnv
+__pycache__/
+*.pyc
+*.swp
+.DS_Store
