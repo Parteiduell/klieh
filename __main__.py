@@ -102,7 +102,7 @@ def main():
         if statement == party:
             print("Richtig!")
         else:
-            print(f"Falsch, diese Aussage war von {json['answer']}")
+            print(f"Falsch, diese Aussage war von {statement}")
             print()
             print(f"Die Partei {party} hat folgendes Statement abgegeben:\n")
             wrap_print(json["possibleAnswers"][party], indent=4)
